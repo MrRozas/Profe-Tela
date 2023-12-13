@@ -1,0 +1,4 @@
+Indicaciones:
+-El link del video está en un block de notas, allí se explica el contexto y la problematica
+-Dentro de la carpeta "página" está la pagina web, para ir al inicio, ir a "Index.html"
+-Hay un bloc de notas llamado "Que aprendimos", la cual contiene todo lo que aprendimos, que tambien mencionaremos en la presentación.
